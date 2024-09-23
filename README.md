@@ -11,8 +11,4 @@ This repository is for Object Detection and Tracking of a basketball and basketb
 
 ⛹️‍♂️ *4. Tracking Dribble Counts:* Tracking when a Dribble occurs.
 
-🧺 *5. Tracking Shot Makes:* Tracking when a Shot is made.
-
-🏃 *6. Tracking Human Movement:* Tracking the movement of the players.
-
 Objective: Viewing it all Together!
