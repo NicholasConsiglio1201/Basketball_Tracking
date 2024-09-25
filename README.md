@@ -9,6 +9,4 @@ This repository is for Object Detection and Tracking of a basketball and basketb
 
 ➡️ *3. Tracking Ball Movement:* Object Tracking of the Basketball.
 
-⛹️‍♂️ *4. Tracking Dribble Counts:* Tracking when a Dribble occurs.
-
 Objective: Viewing it all Together!
